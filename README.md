@@ -116,7 +116,7 @@ Beyond engineering, I’m passionate about **technical writing**, **creative dig
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | 🌱 *Smart Irrigation System* (Funded) | AI + IoT system optimizing water usage for sustainable agriculture. Demonstrated to DIU leadership. | Raspberry Pi, ML, IoT Sensors, Python, C, MySQL | [Repo](https://github.com/kazirahimaahmed/smart-irrigation-system) |
-| 🤖 *AI‑Based Admission Assistant* (Award‑Winning) | NLP chatbot reducing admissions workload by 60‑70%. *2nd Runner‑Up, AI Olympiad BD 2025*. | Python, Flask, Streamlit, Firebase, NLP, ML | [Repo](https://github.com/kazi-rahima-ahmed/AI-Based-Admission-Assistant) |
+| 🤖 *AI‑Based Admission Assistant* (Award‑Winning) | NLP chatbot reducing admissions workload by 60‑70%. *2nd Runner‑Up, AI Olympiad BD 2025*. | Python, Flask, Streamlit, Firebase, NLP, ML | [Repo](https://github.com/kazirahimaahmed/AI-Based-Admission-Assistant) |
 | 🏫 *Smart Classroom Attendance* (Award‑Winning) | IoT‑based automation system with biometric verification, reduced errors by 40%. *1st Runner‑Up, Engineers’ Day 2025*. | IoT Hardware, Automation, Security Systems | [Repo](https://github.com/kazi-rahima-ahmed/Smart-Classroom-Security) |
 | 🚛 *Semi‑Self‑Driven Garbage Truck* | AI + automation for waste collection route optimization. Showcased at RoboTech Olympiad 2024. | Automation, ML, Robotics | [Repo](https://github.com/kazi-rahima-ahmed/Semi-Self-Driven-Garbage-Truck) |
 
