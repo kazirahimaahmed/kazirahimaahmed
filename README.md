@@ -19,11 +19,11 @@
 
 ## 🚀 About Me  
 
-Hi, I’m *Kazi Rahima Ahmed* — a final-year Information & Communication Engineering student at Daffodil International University (DIU), Bangladesh. I specialize in building intelligent systems that integrate *AI, IoT, and embedded technologies* to solve infrastructure challenges with real-world impact.
+Hi, I’m *Kazi Rahima Ahmed* — a final-year **Information & Communication Engineering** student at **Daffodil International University (DIU)**, Bangladesh. I specialize in building intelligent systems that integrate **AI, IoT, and embedded technologies** to solve infrastructure challenges with real-world impact.
 
-I’m currently channeling *3+ years of experience* in *operations, **IT support, and **strategic communication* into the development of *modular, scalable tech* for smart automation and resilience-focused infrastructure.
+I’m currently channeling *3+ years of experience* in *operations*, *IT support*, and *strategic communication* into the development of *modular, scalable tech* for smart automation and resilience-focused infrastructure.
 
-Beyond engineering, I’m passionate about *technical writing, **creative digital content, and **research-driven innovation*—skills I actively apply to documenting projects, leading outreach, and translating complex systems into accessible solutions for collaborators, mentors, and non-technical audiences.
+Beyond engineering, I’m passionate about **technical writing**, **creative digital content**, and **research-driven innovation**—skills I actively apply to documenting projects, leading outreach, and translating complex systems into accessible solutions for collaborators, mentors, and non-technical audiences.
 
 ---
 
