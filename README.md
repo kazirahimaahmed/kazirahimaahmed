@@ -70,7 +70,6 @@ Beyond engineering, I’m passionate about *technical writing, **creative digita
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" style="margin-right:5px"/>
-  <img src="https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/MikroTik-000000?style=for-the-badge" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/CCNA_Fundamentals-1D4F91?style=for-the-badge" style="margin-right:5px"/>
   <img src="https://img.shields.io/badge/Network_Protocols-3C3C3C?style=for-the-badge" style="margin-right:5px"/>
