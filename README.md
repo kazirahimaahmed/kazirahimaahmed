@@ -151,7 +151,7 @@ Beyond engineering, I’m passionate about **technical writing**, **creative dig
   <img height="165" src="https://github-readme-stats-six-gamma-88.vercel.app/api?username=kazi-rahima-ahmed&show_icons=true&theme=radical&hide_border=true" />
   <br/>
   <!-- Streak Stats -->
-  <img height="165" src="https://github-readme-streak-stats-your-streak-vercel.vercel.app?user=kazi-rahima-ahmed&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-streak-stats-three-gold.vercel.app?user=kazi-rahima-ahmed&theme=radical&hide_border=true" />
   <br/>
   <!-- Top Languages -->
   <img height="165" src="https://github-readme-stats-six-gamma-88.vercel.app/api/top-langs/?username=kazi-rahima-ahmed&layout=compact&theme=radical&hide_border=true" />
