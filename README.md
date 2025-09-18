@@ -145,20 +145,16 @@ Beyond engineering, I’m passionate about **technical writing**, **creative dig
 
 ---
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Stats & Activity
 <p align="center">
   <!-- GitHub Stats -->
-  <a href="https://github.com/kazi-rahima-ahmed">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=kazi-rahima-ahmed&show_icons=true&theme=radical&hide_border=true" />
-  </a><br/>
+  <img height="165" src="https://github-readme-stats-six-gamma-88.vercel.app/api?username=kazi-rahima-ahmed&show_icons=true&theme=radical&hide_border=true" />
+  <br/>
   <!-- Streak Stats -->
-  <a href="https://github.com/kazi-rahima-ahmed">
-    <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=kazi-rahima-ahmed&theme=radical&hide_border=true" />
-   </a><br/>
+  <img height="165" src="https://github-readme-streak-stats-your-streak-vercel.vercel.app?user=kazi-rahima-ahmed&theme=radical&hide_border=true" />
+  <br/>
   <!-- Top Languages -->
-  <a href="https://github.com/kazi-rahima-ahmed">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazi-rahima-ahmed&layout=compact&theme=radical&hide_border=true" />
-  </a>
+  <img height="165" src="https://github-readme-stats-six-gamma-88.vercel.app/api/top-langs/?username=kazi-rahima-ahmed&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
