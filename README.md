@@ -17,6 +17,16 @@
 
 ---
 
+
+## 🌟 Quick Links
+
+- [Resume (PDF)](#) <!-- Add your resume link -->
+- [Featured Projects](#-featured-projects)
+- [LinkedIn](https://linkedin.com/in/kazi-rahima-ahmed)
+- [Email](mailto:kazirahimaahmed@gmail.com)
+
+---
+
 ## 🚀 About Me  
 
 Hi, I’m *Kazi Rahima Ahmed* — a final-year **Information & Communication Engineering** student at **Daffodil International University (DIU)**, Bangladesh. I specialize in building intelligent systems that integrate **AI, IoT, and embedded technologies** to solve infrastructure challenges with real-world impact.
